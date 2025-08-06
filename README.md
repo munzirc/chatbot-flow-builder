@@ -2,9 +2,9 @@
 
 A drag-and-drop visual tool to design chatbot conversation flows using React and React Flow.
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-[🔗 View Demo](https://your-live-demo-link.com)
+[🔗 View Demo](https://your-live-demo-link.com) -->
 
 ## 🖼️ Screenshots
 
