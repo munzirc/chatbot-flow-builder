@@ -35,8 +35,3 @@ Visit `http://localhost:5173` (Vite default).
 ```bash
 npm run build
 ```
-
----
-
-## 📄 License
-MIT
