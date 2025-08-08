@@ -16,7 +16,7 @@ const NodeProperties: React.FC<{ selectedId: string | null }> = React.memo(
     const selectedNode = nodes.find((node) => node.id === selectedId);
     const data = selectedNode?.data as NodeData | undefined;
 
-    const [message, setMessage] = useState(data?.message ?? "");
+    const [__message, setMessage] = useState(data?.message ?? "");
 
     useEffect(() => {
       setMessage(data?.message ?? "");

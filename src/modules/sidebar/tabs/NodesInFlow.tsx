@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import { useStore, type Node } from "@xyflow/react";
 import { useFlowStore } from "../../../store/useFlowStore";
 import type { IconType } from "react-icons";
